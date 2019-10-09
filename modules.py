@@ -14,13 +14,13 @@
 
 
 
-#import funt_match
-# funt_match.add(1,2)
-# funt_match.substract(1,2)
+import funt_match
+ funt_match.add(1,2)
+ funt_match.substract(1,2)
 
-# from funt_match import add, substract
-# add(1,3)
-# substract(1,3)
+ from funt_match import add, substract
+ add(1,3)
+ substract(1,3)
 
 
 
